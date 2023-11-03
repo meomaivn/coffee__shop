@@ -235,8 +235,6 @@
 
 }
 
-
-
 .gallery__heading span {
     color: #b2744c;
     font-size: 25px;
@@ -299,3 +297,5 @@ img {
 .top-cards .cards:hover {
     transform: translateY(-10px);
 }
+
+/* BackToTop */
